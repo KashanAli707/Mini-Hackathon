@@ -21,7 +21,6 @@ import {
     measurementId: "G-2E8K23V1XN"
   };
 
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
